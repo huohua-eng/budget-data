@@ -1,1 +1,1 @@
-{"username":"何火华","department":"财务部","isAdmin":true,"isDeptManager":false,"role":"admin"}
+{"username":"周正颜","department":"市场部","isAdmin":false,"isDeptManager":true,"role":"dept_manager"}
